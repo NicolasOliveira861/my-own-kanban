@@ -30,6 +30,12 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+  min-height: 100vh;
+  height: 100vh;
+}
+
+#root {
+  height: 100%;
 }
 
 ol, ul {
