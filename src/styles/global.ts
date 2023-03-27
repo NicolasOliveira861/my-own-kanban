@@ -60,4 +60,16 @@ table {
 * {
   font-family: 'Inter', sans-serif;
 }
+
+  button, a {
+    border: none;
+    background: none;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  input {
+    border: none;
+    background: none;
+  }
 `;
