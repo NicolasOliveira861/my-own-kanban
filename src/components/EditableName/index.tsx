@@ -34,7 +34,7 @@ export const EditableName = ({ boardName }: Props) => {
 
       <input
         type='text'
-        style={isEditing ? { width: width + 20 } : { width: width + 5 }}
+        style={isEditing ? { width: width + 20 } : { width: width + 10 }}
         className={isEditing ? 'editing' : ''}
         value={name}
         onChange={handleChangeName}

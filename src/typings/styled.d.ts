@@ -10,7 +10,10 @@ declare module 'styled-components' {
       black: {
         text: string;
       };
-      gray: string;
+      gray: {
+        primary: string;
+        secondary: string;
+      };
       bg: string;
     };
   }

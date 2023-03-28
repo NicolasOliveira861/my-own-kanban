@@ -7,7 +7,10 @@ export const theme = {
     black: {
       text: '#403937',
     },
-    gray: '#7C7C8A',
+    gray: {
+      primary: '#7C7C8A',
+      secondary: '#756966',
+    },
     bg: '#FBFAFF',
   },
 };

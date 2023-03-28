@@ -24,7 +24,7 @@ export const Bar = styled.div`
     font-weight: 400;
     font-size: 16px;
     line-height: 100%;
-    color: ${({ theme }) => theme.colors.gray};
+    color: ${({ theme }) => theme.colors.gray.primary};
     outline: none;
     margin-left: 10px;
 
@@ -32,7 +32,7 @@ export const Bar = styled.div`
       font-weight: 400;
       font-size: 16px;
       line-height: 100%;
-      color: ${({ theme }) => theme.colors.gray};
+      color: ${({ theme }) => theme.colors.gray.primary};
     }
   }
 `;
