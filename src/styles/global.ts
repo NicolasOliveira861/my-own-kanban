@@ -19,7 +19,6 @@ export const Global = createGlobalStyle`
 	  padding: 0;
 	  border: 0;
 	  font-size: 100%;
-	  font: inherit;
 	  vertical-align: baseline;
 }
 
@@ -55,6 +54,11 @@ q:before, q:after {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+}
+
+button, a, section, div, aside,
+input, table {
+  box-sizing: border-box; 
 }
 
 * {

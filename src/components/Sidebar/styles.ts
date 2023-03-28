@@ -4,8 +4,7 @@ import { Link as RouterLink } from 'react-router-dom';
 export const Container = styled.aside`
   display: flex;
   flex-direction: column;
-  padding: 32px 35px;
-  max-width: 175px;
+  padding: 35px 27px 35px 32px;
   height: 100%;
   background: transparent;
 `;
