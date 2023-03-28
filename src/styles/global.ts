@@ -66,6 +66,7 @@ table {
     background: none;
     text-decoration: none;
     cursor: pointer;
+    padding: 0;
   }
 
   input {

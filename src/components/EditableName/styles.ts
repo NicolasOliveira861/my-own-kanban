@@ -6,16 +6,32 @@ export const Container = styled.div`
   gap: 12px;
   margin-left: 24px;
 
-  h1,
+  #hide {
+    opacity: 0;
+    position: absolute;
+    pointer-events: none;
+  }
+
+  #hide,
   input {
     font-size: 2rem;
     line-height: 2.625rem;
     font-weight: 700;
-    color: ${({ theme }) => theme.colors.black.text};
-    display: inline-block;
   }
 
   input {
-    width: 200px;
+    color: ${({ theme }) => theme.colors.black.text};
+    display: flex;
+    outline: none;
+    transition: 0.3s border-bottom;
+    border-bottom: 1px solid transparent;
+    pointer-events: none;
+    text-align: left;
+    min-width: 5ch;
+
+    &.editing {
+      pointer-events: all;
+      border-bottom: 1px solid ${({ theme }) => theme.colors.black.text};
+    }
   }
 `;
