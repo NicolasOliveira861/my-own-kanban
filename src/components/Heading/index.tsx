@@ -1,10 +1,8 @@
-// import { SetStateAction } from 'react';
 import { EditableName } from '../EditableName';
 import { Container, ImageContainer } from './styles';
 
 interface Props {
   boardName: string;
-  // setBoardName: React.Dispatch<SetStateAction<string>>;
   profilePicUrl: string;
 }
 
