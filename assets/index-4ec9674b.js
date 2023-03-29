@@ -97,7 +97,7 @@ Error generating stack: `+l.message+`
     line-height: 125%;
     color: #ffffff;
   }
-`,Zm=()=>ge(Ym,{children:[O(Km,{}),ge(Gm,{children:[ge(tl,{to:"/",children:[O(Qm,{}),O("p",{children:"Boards"})]}),ge(tl,{to:"/people",children:[O(Wm,{}),O("p",{children:"Equipes"})]}),ge(tl,{to:"/documents",children:[O(Vm,{}),O("p",{children:"Relatórios"})]}),ge(tl,{to:"/settings",children:[O(Hm,{}),O("p",{children:"Ajustes"})]})]})]}),Xm=Be.main`
+`,Zm=()=>ge(Ym,{children:[O(Km,{}),ge(Gm,{children:[ge(tl,{to:"/boards/1",children:[O(Qm,{}),O("p",{children:"Boards"})]}),ge(tl,{to:"/people",children:[O(Wm,{}),O("p",{children:"Equipes"})]}),ge(tl,{to:"/documents",children:[O(Vm,{}),O("p",{children:"Relatórios"})]}),ge(tl,{to:"/settings",children:[O(Hm,{}),O("p",{children:"Ajustes"})]})]})]}),Xm=Be.main`
   background: ${({theme:e})=>e.colors.purple.primary};
   width: 100%;
   min-height: 100%;
@@ -286,7 +286,7 @@ Error generating stack: `+l.message+`
   border-radius: 32px 0 0 0;
   margin-top: 4px;
   position: relative;
-`,w4=()=>ge(C4,{children:[O(y4,{boardName:"Meu Kanban",profilePicUrl:"/user_1.jpg"}),O(d4,{}),O(r4,{cards:qm})]}),S4=F2([{path:"/",element:O(Jm,{}),children:[{path:"boards/:id",element:O(w4,{})}]}]),k4=Bm`
+`,w4=()=>ge(C4,{children:[O(y4,{boardName:"Meu Kanban",profilePicUrl:"/user_1.jpg"}),O(d4,{}),O(r4,{cards:qm})]}),S4=F2([{path:"/",element:O(Jm,{}),children:[{path:"boards/:id",element:O(w4,{})}]}],{basename:"/"}),k4=Bm`
 
   html, body, div, span, applet, object, iframe,
   h1, h2, h3, h4, h5, h6, p, blockquote, pre,
