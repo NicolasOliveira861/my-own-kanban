@@ -48,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://i.imgur.com/ImkV6o6.png)
+![Product Name Screen Shot](https://i.imgur.com/ImkV6o6.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
