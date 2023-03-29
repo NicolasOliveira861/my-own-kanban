@@ -11,7 +11,7 @@ export const Sidebar = () => {
       <Logo />
 
       <Links>
-        <Link to={'/'}>
+        <Link to={'/boards/1'}>
           <TabletIcon />
 
           <p>Boards</p>
