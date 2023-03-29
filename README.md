@@ -48,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/NicolasOliveira861/my-own-kanban/blob/master/src/assets/mocks/my-own-kanban.png)
+[![Product Name Screen Shot][product-screenshot]](https://i.imgur.com/ImkV6o6.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
