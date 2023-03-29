@@ -286,7 +286,7 @@ Error generating stack: `+l.message+`
   border-radius: 32px 0 0 0;
   margin-top: 4px;
   position: relative;
-`,w4=()=>ge(C4,{children:[O(y4,{boardName:"Meu Kanban",profilePicUrl:"/user_1.jpg"}),O(d4,{}),O(r4,{cards:qm})]}),S4=F2([{path:"/",element:O(Jm,{}),children:[{path:"boards/:id",element:O(w4,{})}]}],{basename:"/my-own-kanban/"}),k4=Bm`
+`,w4=()=>ge(C4,{children:[O(y4,{boardName:"Meu Kanban",profilePicUrl:"/my-own-kanban/user_1.jpg"}),O(d4,{}),O(r4,{cards:qm})]}),S4=F2([{path:"/",element:O(Jm,{}),children:[{path:"boards/:id",element:O(w4,{})}]}],{basename:"/my-own-kanban/"}),k4=Bm`
 
   html, body, div, span, applet, object, iframe,
   h1, h2, h3, h4, h5, h6, p, blockquote, pre,
