@@ -16,6 +16,6 @@ export const router = createBrowserRouter(
     },
   ],
   {
-    basename: '/',
+    basename: '/my-own-kanban/',
   }
 );
