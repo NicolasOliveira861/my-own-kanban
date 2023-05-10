@@ -15,7 +15,7 @@
     <br />
     <a href="https://github.com/NicolasOliveira861/my-own-kanban"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://nicolasoliveira861.github.io/my-own-kanban/">View Demo</a>
+    <a href="https://my-own-kanban.vercel.app/boards/1">View Demo</a>
   </p>
 </div>
 
