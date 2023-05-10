@@ -15,7 +15,7 @@
     <br />
     <a href="https://github.com/NicolasOliveira861/my-own-kanban"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/NicolasOliveira861/my-own-kanban">View Demo</a>
+    <a href="https://nicolasoliveira861.github.io/my-own-kanban/">View Demo</a>
   </p>
 </div>
 
@@ -38,6 +38,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#next-steps">Next Steps</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -118,6 +119,16 @@ To get a local copy up and running follow these simple example steps.
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Next Steps -->
+## Next Steps
+
+<ul>
+  <li>Responsiveness</li>
+  <li>Migrate project from GH Pages to Vercel, for SPA support</li>
+  <li>Creation and edition of new boards and cards</li>
+  <li>Back-end to store data (?)</li>
+</ul>
 
 
 <!-- LICENSE -->
