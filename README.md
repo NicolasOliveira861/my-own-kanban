@@ -125,7 +125,7 @@ To get a local copy up and running follow these simple example steps.
 
 <ul>
   <li>Responsiveness</li>
-  <li>Migrate project from GH Pages to Vercel, for SPA support</li>
+  <li>Migrate project from GH Pages to Vercel, for SPA support ✅</li>
   <li>Creation and edition of new boards and cards</li>
   <li>Back-end to store data (?)</li>
 </ul>
