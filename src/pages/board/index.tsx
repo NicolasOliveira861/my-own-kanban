@@ -7,10 +7,7 @@ import { Container } from './styles';
 export const Board = () => {
   return (
     <Container>
-      <Heading
-        boardName='Meu Kanban'
-        profilePicUrl={`/my-own-kanban/user_1.jpg`}
-      />
+      <Heading boardName='Meu Kanban' profilePicUrl={`/user_1.jpg`} />
 
       <Filter />
 
